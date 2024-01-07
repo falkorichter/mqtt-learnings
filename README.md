@@ -46,3 +46,6 @@ should trigger:
 ArduinoIoTCloudTCP::handle_ConnectMqttBroker could not connect to mqtts-up.iot.arduino.cc:8884
 ArduinoIoTCloudTCP::handle_ConnectMqttBroker 7 connection attempt at tick time 1642045
 ```
+
+## issues
+* AK9753 (https://www.sparkfun.com/products/14349) https://github.com/sparkfun/SparkFun_DataLogger/issues/17 
