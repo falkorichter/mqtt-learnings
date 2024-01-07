@@ -44,6 +44,8 @@ docker run -it -p 1880:1880 -v node_red_data:/data --name mynodered nodered/node
 from https://nodered.org/docs/getting-started/docker
 
 
+https://flows.nodered.org/node/node-red-contrib-huemagic
+
 # config
 
 ```
