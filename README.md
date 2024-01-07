@@ -26,6 +26,13 @@ Or, if you don't want/need a background service you can just run:
   /opt/homebrew/opt/mosquitto/sbin/mosquitto -c /opt/homebrew/etc/mosquitto/mosquitto.conf
 ```
 
+## docker
+
+https://cedalo.com/blog/mosquitto-docker-configuration-ultimate-guide/
+
+```
+docker run -it -d --name mos1 -p 1883:1883 -v /etc/mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf eclipse-mosquitto:2
+```
 
 # config
 
