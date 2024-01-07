@@ -37,6 +37,11 @@ or simpler with a local.conf file
 ```
 docker run -it -d --name mos1 -p 1883:1883 -v $(pwd)/local.conf:/mosquitto/config/mosquitto.conf eclipse-mosquitto:2
 ```
+and let´s add node red:
+```
+docker run -it -p 1880:1880 -v node_red_data:/data --name mynodered nodered/node-red
+```
+from https://nodered.org/docs/getting-started/docker
 
 
 # config
