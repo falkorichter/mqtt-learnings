@@ -38,3 +38,11 @@ allow_anonymous true
 
 should trigger:
 <img src="assets/firewall_mac.png"/>
+
+
+# iotcloud
+
+```
+ArduinoIoTCloudTCP::handle_ConnectMqttBroker could not connect to mqtts-up.iot.arduino.cc:8884
+ArduinoIoTCloudTCP::handle_ConnectMqttBroker 7 connection attempt at tick time 1642045
+```
