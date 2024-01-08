@@ -40,6 +40,8 @@ docker run -it -d --name mos1 -p 1883:1883 -v $(pwd)/local.conf:/mosquitto/confi
 and let´s add node red:
 ```
 docker run -it -p 1880:1880 -v node_red_data:/data --name mynodered nodered/node-red
+#docker logs mynodered --follow
+#docker restart mynodered
 ```
 from https://nodered.org/docs/getting-started/docker
 
