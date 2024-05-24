@@ -10,3 +10,4 @@ https://docs.sparkfun.com/SparkFun_DataLogger/configuration/
 * port: `1883`
 
 it works
+![](assets/mqtt-working.png)
