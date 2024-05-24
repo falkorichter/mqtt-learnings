@@ -13,6 +13,9 @@ used https://docs.sparkfun.com/SparkFun_DataLogger/configuration/
 
 
 `brew install zoc`
+* https://www.emtec.com/zoc/index.html
+* seems to work with line breaks
+![](assets/zoc1.png)![](assets/zoc2.png)
 
 it works
 ![](assets/mqtt-working.png)
