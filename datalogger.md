@@ -1,5 +1,6 @@
 # sparkfun SparkFun_DataLogger
 
+`after firmware update - you need to set all the settings again` - maybe you can save/restore settings...
 
 * install `CoolTerm` https://freeware.the-meiers.org/ 
    * `brew install coolterm`
