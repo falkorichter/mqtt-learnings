@@ -1,7 +1,10 @@
 # sparkfun SparkFun_DataLogger
 
 TODO
- [] update to https://github.com/sparkfun/SparkFun_DataLogger/releases/tag/v01.01.99 via SD-card to test the https://github.com/sparkfun/SparkFun_DataLogger/issues/18 metadata
+
+ * [ ] update to https://github.com/sparkfun/SparkFun_DataLogger/releases/tag/v01.01.99 via SD-card to:
+ * [ ] test the https://github.com/sparkfun/SparkFun_DataLogger/issues/18 metadata
+ * [ ] keep an eye on presence sensor issue https://github.com/sparkfun/SparkFun_DataLogger/issues/17 
 
 `after firmware update - you need to set all the settings again` - maybe you can save/restore settings...
 
