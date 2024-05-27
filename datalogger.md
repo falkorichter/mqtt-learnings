@@ -5,6 +5,7 @@ TODO
  * [ ] update to https://github.com/sparkfun/SparkFun_DataLogger/releases/tag/v01.01.99 via SD-card to:
  * [ ] test the https://github.com/sparkfun/SparkFun_DataLogger/issues/18 metadata
  * [ ] keep an eye on presence sensor issue `presence sensor AK9753` https://github.com/sparkfun/SparkFun_DataLogger/issues/17
+    * [ ]  maybe buy https://botland.de/bewegungssensoren/24082-sparkfun-anwesenheits-und-bewegungssensor-sths34pf80-qwiic-sparkfun-sen-22494.html 
 
 ## 2024-05-24 
 
