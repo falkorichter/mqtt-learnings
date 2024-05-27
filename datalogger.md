@@ -4,7 +4,9 @@ TODO
 
  * [ ] update to https://github.com/sparkfun/SparkFun_DataLogger/releases/tag/v01.01.99 via SD-card to:
  * [ ] test the https://github.com/sparkfun/SparkFun_DataLogger/issues/18 metadata
- * [ ] keep an eye on presence sensor issue https://github.com/sparkfun/SparkFun_DataLogger/issues/17 
+ * [ ] keep an eye on presence sensor issue https://github.com/sparkfun/SparkFun_DataLogger/issues/17
+
+## 2024-05-24 
 
 `after firmware update - you need to set all the settings again` - maybe you can save/restore settings...
 
@@ -17,7 +19,6 @@ used https://docs.sparkfun.com/SparkFun_DataLogger/configuration/
 
 * server: `pi5-64.local`
 * port: `1883`
-
 
 `brew install zoc`
 * https://www.emtec.com/zoc/index.html
